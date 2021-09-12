@@ -23,7 +23,7 @@ The first player to run out of cards, wins.
 - **3 [Collect 3]** - The user must draw 3 cards from the deck.
 - **4 [Show]** - The user must lay his hand face up, fully visible, until the start of his next turn. Skips prolong this.
 - **5 [Revere]** - The user picks a target player. Target player must choose a card from his own deck to give to the user.
-- **6 [Not Rummi]** - All players are given an oppertunity to discard sets of cards with no effect which meet one of the conditions: [3+ of a kind (eg. 2, 2, 2), run of 3+ in the same suit (eg. 2, 3, 4)]. (the sets of cards you can lay out in the game **Rummi**. The user may not use his base 6 card to make a set with two other cards. Players can not "build upon" other player's sets. See **"resolving multiple discards"** below).
+- **6 [Not Rummi]** - All players are given an opportunity to discard sets of cards with no effect which meet one of the conditions: [3+ of a kind (eg. 2, 2, 2), run of 3+ in the same suit (eg. 2, 3, 4)]. (the sets of cards you can lay out in the game **Rummi**. The user may not use his base 6 card to make a set with two other cards. Players can not "build upon" other player's sets. See **"resolving multiple discards"** below).
 - **7 [Purge]** - All players except the user discard a card with no effect (See **"resolving multiple discards"** below).
 - **8 [8]** - Just an Eight. It's Normal Eights, remember?
 - **9 [Reverse]** - Reverse the turn order.
